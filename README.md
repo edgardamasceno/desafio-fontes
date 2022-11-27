@@ -8,7 +8,7 @@
 
 ### TODO List
 
-- [ ] Configurar database via docker
+- [x] Configurar database via docker
 - [ ] Implementar boilerplate do back-end
 - [ ] Implementar boilerplate do front-end
 - [ ] Implementar endpoint `/users` (POST) para criação de usuários
