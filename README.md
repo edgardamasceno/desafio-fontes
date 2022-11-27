@@ -5,10 +5,11 @@
 1. [TODO](#todo-list)
 2. [Implementação](#implementação)
 3. [Git](./docs/pt-br/git.md)
+4. [Docker](./docs/pt-br/docker.md)
 
 ### TODO List
 
-- [ ] Configurar database via docker
+- [x] Configurar database via docker
 - [ ] Implementar boilerplate do back-end
 - [ ] Implementar boilerplate do front-end
 - [ ] Implementar endpoint `/users` (POST) para criação de usuários
