@@ -30,7 +30,7 @@
 - [ ] Configurar Swagger para o `/project/:id`
 - [x] Implementar componente Text
 - [x] Implementar componente Heading
-- [ ] Implementar componente Card
+- [x] Implementar componente Card
 - [ ] Implementar componente Button
 - [ ] Implementar componente Pagination
 - [ ] Implementar componente TextInput
