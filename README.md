@@ -45,7 +45,7 @@
 - [ ] Implementar página ListProjects
 - [ ] Implementar página ViewProject
 - [ ] Implementar página EditProject
-- [ ] Publicar Storybook do projeto no GH Pages
+- [x] Publicar Storybook do projeto no GH Pages
 
 ### Implementação
 
