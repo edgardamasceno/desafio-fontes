@@ -13,7 +13,7 @@
 
 - [x] Configurar database via docker
 - [x] Implementar boilerplate do back-end
-- [ ] Implementar boilerplate do front-end
+- [x] Implementar boilerplate do front-end
 - [ ] Implementar endpoint `/users` (POST) para criação de usuários
 - [ ] Configurar Swagger para o endpoint `/users`
 - [ ] Implementar endpoint `/projects` (POST) para criação de projetos
@@ -80,12 +80,22 @@ DB_PASSWORD=fontespromotora
     docker-compose --env-file .env.local up database
     ```
 
-3. Inicie o backend:
+3. Inicie o back-end:
 
     Abra um novo terminal e na raíz do projeto, execute:
 
     ```bash
     cd backend
+    npm install
+    npm run start:dev
+    ```
+
+4. Inicie o front-end:
+
+    Abra um novo terminal e na raíz do projeto, execute:
+
+    ```bash
+    cd frontend
     npm install
     npm run start:dev
     ```
