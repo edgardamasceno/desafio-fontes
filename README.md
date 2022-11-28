@@ -28,7 +28,7 @@
 - [ ] Configurar Swagger para o `/project/:id/done`
 - [ ] Implementar endpoint `/project/:id` (DELETE) para excluir um projeto
 - [ ] Configurar Swagger para o `/project/:id`
-- [ ] Implementar componente Text
+- [x] Implementar componente Text
 - [ ] Implementar componente Heading
 - [ ] Implementar componente Card
 - [ ] Implementar componente Button
