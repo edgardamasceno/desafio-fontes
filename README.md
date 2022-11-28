@@ -29,7 +29,7 @@
 - [ ] Implementar endpoint `/project/:id` (DELETE) para excluir um projeto
 - [ ] Configurar Swagger para o `/project/:id`
 - [x] Implementar componente Text
-- [ ] Implementar componente Heading
+- [x] Implementar componente Heading
 - [ ] Implementar componente Card
 - [ ] Implementar componente Button
 - [ ] Implementar componente Pagination
