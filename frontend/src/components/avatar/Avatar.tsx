@@ -1,6 +1,3 @@
-import { clsx } from 'clsx';
-import { ReactNode } from 'react';
-
 export interface AvatarProps {
     name: string;
     size: 24 | 36 | 48;
