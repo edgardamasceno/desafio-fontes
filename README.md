@@ -34,7 +34,7 @@
 - [x] Implementar componente Button
 - [x] Implementar componente Pagination
 - [x] Implementar componente TextInput
-- [ ] Implementar componente CheckBox
+- [x] Implementar componente CheckBox
 - [x] Implementar componente Avatar
 - [ ] Implementar componente SnackBar
 - [ ] Implementar componente BreadCrumb
