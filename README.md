@@ -31,7 +31,7 @@
 - [x] Implementar componente Text
 - [x] Implementar componente Heading
 - [x] Implementar componente Card
-- [ ] Implementar componente Button
+- [x] Implementar componente Button
 - [ ] Implementar componente Pagination
 - [ ] Implementar componente TextInput
 - [ ] Implementar componente CheckBox
