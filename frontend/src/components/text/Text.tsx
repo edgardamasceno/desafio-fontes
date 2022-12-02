@@ -16,7 +16,7 @@ export const Text = ({ size = 'md', weight = 'normal', children, asChild }: Text
     return (
         <Component className={
             clsx(
-                `text-slate-700 font-sans`,
+                'text-slate-700 font-sans',
                 {
                     'text-xs': size === 'xs',
                     'text-sm': size === 'sm',
