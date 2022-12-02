@@ -32,8 +32,8 @@
 - [x] Implementar componente Heading
 - [x] Implementar componente Card
 - [x] Implementar componente Button
-- [ ] Implementar componente Pagination
-- [ ] Implementar componente TextInput
+- [x] Implementar componente Pagination
+- [x] Implementar componente TextInput
 - [ ] Implementar componente CheckBox
 - [ ] Implementar componente Avatar
 - [ ] Implementar componente SnackBar
